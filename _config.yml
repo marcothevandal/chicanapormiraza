@@ -45,6 +45,20 @@ metadata: cpmr_records
 #     extension: 'html' 
 #     filter: 'objectid'  
 
+# CMPR Bio collection
+# using Jekyll "collections", https://jekyllrb.com/docs/collections/
+collections: 
+  bios:
+    output: true
+    permalink: /:collection/:name:output_ext
+defaults:
+  - scope:
+      path: ""
+      type: "bios"
+    values:
+      layout: "item/bio"
+
+
 ##########
 # Site/Organization Branding 
 #   Enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
