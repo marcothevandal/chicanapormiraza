@@ -1,0 +1,26 @@
+---
+# base layout for CPMR bio pages
+layout: page
+---
+
+<div class="row mt-3">
+    <div class="col-md-4 p-3">
+        <img src="{{ page.image_large }}" alt="portrait of {{ page.title }}" class="img-fluid rounded">
+    </div>
+    <div class="col-md-8">
+        <h2>{{ page.title }}</h2>
+
+        <div id="bio-details" class="fs-5">
+        {% if page.born %}Born: {{ page.born }}<br>{% endif %}
+        {% if page.education %}Education: {{ page.education }}<br>{% endif %}
+        {% if page.bio_detail %}{{ page.bio_detail }}<br>{% endif %}
+        </div>
+        {% if page.quote %}
+        <div id="bio-quote" class="lead">
+            {{ page.quote }}
+        </div>{% endif %}
+    </div>
+</div>
+<div id="bio" class="mt-5">
+    {{ content }}
+</div>
