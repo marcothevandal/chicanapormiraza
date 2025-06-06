@@ -2,7 +2,7 @@
 # Murejes browse page
 title: Student Curated Biographies
 layout: page
-permalink: /murejes.html
+permalink: /mujeres.html
 ---
 
 <h2>Student Curated Biographies</h2>
@@ -12,6 +12,7 @@ permalink: /murejes.html
 {% for b in site.bios %}
 <div class="row border rounded">
     <div class="col-md-2 p-2">
+        <br>
         <img src="{{ b.image_thumb }}" alt="portrait of {{ b.title }}" class="img-fluid rounded">
     </div>
     <div class="col-md-4">
@@ -19,5 +20,6 @@ permalink: /murejes.html
         <p>{{ b.quote }}</p>
     </div>
     <div class="col-md-6">{{ b.description | markdownify }}</div>
+        
 </div>
 {% endfor %}
