@@ -13,7 +13,7 @@ Quote if available
 
 ### Biography goes here
 
-
+This is a test line. 
 
 Chicana Diasporic, A Nomadic Journey of the Activist Exiled, is a media rich, annotated Scalar research hub that highlights a political/ideological journey of the women of the Chicana Caucus of the National Women’s Political Caucus (NWPC) from 1973 to 1979. Presented in a museum collection format, this interdisciplinary exploration of the Chicana Caucus includes speeches, correspondence, event posters, photographs, filmed interview clips, an introductory narrative and timeline that defines the Caucus’ history, structure and purpose, and their national impact on 1970s second wave feminism.
 
