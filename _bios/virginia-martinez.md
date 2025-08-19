@@ -5,10 +5,10 @@ born: Chicago, Illinois
 education: J.D., DePaul University
 bio_detail:
 quote: I’m not a secretary, I’m an attorney.
-description: Virginia Martinez is a significant figure in the Chicana feminist movement, a Chicago-native Latina attorney, and an advocate for women and children. Martinez was changing the world from an early age. She went against her family and society’s standards when she applied to law school and became one of the first Latinas to be licensed to practice law in Illinois. When she was in law school, she was one of the founders of the Latino Law Student Association.
-image_large: https://chicanapormiraza.org/sites/default/files/styles/large/public/Virginia%20Martinez%20Portrait.png
-image_small: https://chicanapormiraza.org/sites/default/files/styles/medium/public/Virginia%20Martinez%20Portrait.png
-image_thumb: https://chicanapormiraza.org/sites/default/files/styles/square_thumbnail/public/Virginia%20Martinez%20Portrait.png
+description: Virginia Martinez is a significant figure in the Chicana feminist movement, a Chicago-native Latina attorney, and an advocate for women and children. Martinez was changing the world from an early age. She went against her family and society’s standards when she applied to law school and became one of the first Latinas to be licensed to practice law in Illinois. 
+image_large: https://cpmrark.reclaim.hosting/mujeres/virginiamartinez.png	
+image_small: https://cpmrark.reclaim.hosting/mujeres/small/virginiamartinez_sm.jpg	
+image_thumb: https://cpmrark.reclaim.hosting/mujeres/thumbs/virginiamartinez_th.jpg
 ---
 
 Virginia Martinez is a significant figure in the Chicana feminist movement, a Chicago-native Latina attorney, and an advocate for women and children. Martinez was changing the world from an early age. She went against her family and society’s standards when she applied to law school and became one of the first Latinas to be licensed to practice law in Illinois. When she was in law school, she was one of the founders of the Latino Law Student Association. She was also a founding board member for the Illinois Maternal and Child Health Coalition as well the National Coalition Against Domestic Violence.

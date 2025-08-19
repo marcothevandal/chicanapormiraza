@@ -5,10 +5,10 @@ born: December 5, 1952
 education: University of California, Santa Cruz, University of California, Los Angeles, and California State University, Northridge
 bio_detail:
 quote: With your passion, you can find your place in the world.
-description: Yreina Cervántez was born on December 5th, 1952, in Garden City, Kansas. She lived with her mother, father, and younger brother until she was seven. Cervántez remembers that at a very young age, she became aware that things were different for people of color. Fortunately, her parents provided Cervántez with a strong support system that helped her articulate the confusion and alienation she felt growing up in a racist environment. She grew up watching them support the development of the Civil Rights Movement, empathizing with the African American community in their town.
-image_large: https://chicanapormiraza.org/sites/default/files/styles/large/public/Screen%20Shot%202020-04-11%20at%205.10.43%20PM.png
-image_small: https://chicanapormiraza.org/sites/default/files/styles/medium/public/Screen%20Shot%202020-04-11%20at%205.10.43%20PM.png
-image_thumb: https://chicanapormiraza.org/sites/default/files/styles/square_thumbnail/public/Screen%20Shot%202020-04-11%20at%205.10.43%20PM.png
+description: Yreina Cervántez was born on December 5th, 1952, in Garden City, Kansas. She lived with her mother, father, and younger brother until she was seven. Cervántez remembers that at a very young age, she became aware that things were different for people of color.
+image_large: https://cpmrark.reclaim.hosting/mujeres/yreinadoreencervantez.png	
+image_small: https://cpmrark.reclaim.hosting/mujeres/small/yreinadoreencervantez_sm.jpg	
+image_thumb: https://cpmrark.reclaim.hosting/mujeres/thumbs/yreinadoreencervantez_th.jpg
 ---
 
 Yreina Cervántez was born on December 5th, 1952, in Garden City, Kansas. She lived with her mother, father, and younger brother until she was seven. Cervántez remembers that at a very young age, she became aware that things were different for people of color. Fortunately, her parents provided Cervántez with a strong support system that helped her articulate the confusion and alienation she felt growing up in a racist environment. She grew up watching them support the development of the Civil Rights Movement, empathizing with the African American community in their town. Her parents instilled a sense of social justice that would later become central in her art.

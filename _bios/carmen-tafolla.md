@@ -5,10 +5,10 @@ born: San Antonio, Texas
 education:
 bio_detail: State Poet Laureate of Texas
 quote: The arts were crucial. They woke us up and they spoke to our hearts and they’re the true revolution.
-description: "**Carmen Tafolla** was born in San Antonio, Texas on July 29, 1951 to a family with a history in San Antonio going back to the early eighteenth century. A resident of the West Side Barrio of the city, Carmen had a happy childhood immersed in Mexican American culture but was also keenly aware of the discrimination and injustice that those in her neighborhood faced. As part of a long history of neglect by the city, her neighborhood had a severe lack of books and literature, and Carmen was extremely eager to get her hands on anything and everything that she could read."
-image_large: https://chicanapormiraza.org/sites/default/files/styles/large/public/Screen%20Shot%202015-10-27%20at%202.26.38%20PM.png
-image_small: https://chicanapormiraza.org/sites/default/files/styles/medium/public/Screen%20Shot%202015-10-27%20at%202.26.38%20PM.png
-image_thumb: https://chicanapormiraza.org/sites/default/files/styles/square_thumbnail/public/Screen%20Shot%202015-10-27%20at%202.26.38%20PM.png
+description: "**Carmen Tafolla** was born in San Antonio, Texas on July 29, 1951 to a family with a history in San Antonio going back to the early eighteenth century. In the past several decades, Carmen has published five books of poetry, eight illustrated children’s books, seven television screenplays, one non-fiction volume, and one collection of short stories. She has performed and spoken around the world and is one of the most widely published Latina writers."
+image_large: https://cpmrark.reclaim.hosting/mujeres/carmentafolla.png
+image_small: https://cpmrark.reclaim.hosting/mujeres/small/carmentaffola_sm.jpg
+image_thumb: https://cpmrark.reclaim.hosting/mujeres/thumbs/carmentaffola_th.jpg
 ---
 
 **Carmen Tafolla** was born in San Antonio, Texas on July 29, 1951 to a family with a history in San Antonio going back to the early eighteenth century. A resident of the West Side Barrio of the city, Carmen had a happy childhood immersed in Mexican American culture but was also keenly aware of the discrimination and injustice that those in her neighborhood faced. As part of a long history of neglect by the city, her neighborhood had a severe lack of books and literature, and Carmen was extremely eager to get her hands on anything and everything that she could read.

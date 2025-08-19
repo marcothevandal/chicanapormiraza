@@ -6,9 +6,9 @@ education:
 bio_detail: Board of Directors, Dolores Huerta Foundation
 quote: I learned at that early age that the word 'no,' or rejection, you can really turn it around if you're determined to get some place.
 description: Barbara Carrasco holds a Bachelor of Fine Arts in art from the University of California, Los Angeles and a Master’s of Fine Arts from the California Institute of the Arts. She has been a muralist and artist in various media since her childhood.
-image_large: https://chicanapormiraza.org/sites/default/files/styles/large/public/BC_0.PNG
-image_small: https://chicanapormiraza.org/sites/default/files/styles/medium/public/BC_0.PNG
-image_thumb: https://chicanapormiraza.org/sites/default/files/styles/square_thumbnail/public/BC_0.PNG
+image_large: https://cpmrark.reclaim.hosting/mujeres/barbaracarrasco.png
+image_small: https://cpmrark.reclaim.hosting/mujeres/small/barbaracarrasco_sm.jpg
+image_thumb: https://cpmrark.reclaim.hosting/mujeres/thumbs/barbaracarrasco_th.jpg
 ---
 
 Barbara Carrasco holds a Bachelor of Fine Arts in art from the University of California, Los Angeles and a Master’s of Fine Arts from the California Institute of the Arts. She has been a muralist and artist in various media since her childhood.

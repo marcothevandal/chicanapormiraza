@@ -5,10 +5,10 @@ born:
 education:
 bio_detail:
 quote: Don’t ever underestimate the power of a woman.
-description: Alicia Escalante was born in El Paso Texas, in 1933 to what she describes as a traditional family. She was the second oldest of seven children, and she shared an intense bond with her mother. After 15 years of marriage, Escalante’s mother decided to divorce her father due to his infidelity, alcoholism and abuse. At the divorce court proceedings, her father was granted custody of all seven children, because of her mother’s lack of employment and housing.
-image_large: https://chicanapormiraza.org/sites/default/files/styles/large/public/Screen%20Shot%202015-11-02%20at%205.59.58%20PM.png
-image_small: https://chicanapormiraza.org/sites/default/files/styles/medium/public/Screen%20Shot%202015-11-02%20at%205.59.58%20PM.png
-image_thumb: https://chicanapormiraza.org/sites/default/files/styles/square_thumbnail/public/Screen%20Shot%202015-11-02%20at%205.59.58%20PM.png
+description: Alicia Escalante was born in El Paso Texas, in 1933 to what she describes as a traditional family. She was the second oldest of seven children, and she shared an intense bond with her mother. She'd go on to be an organizer and movemement leader, creating the East LA Welfare Rights Organization. 
+image_large: https://cpmrark.reclaim.hosting/mujeres/aliciaescalante.png
+image_small: https://cpmrark.reclaim.hosting/mujeres/small/aliciaescalante_sm.jpg
+image_thumb: https://cpmrark.reclaim.hosting/mujeres/thumbs/aliciaescalante_th.jpg
 ---
 
 Alicia Escalante was born in El Paso Texas, in 1933 to what she describes as a traditional family. She was the second oldest of seven children, and she shared an intense bond with her mother. After 15 years of marriage, Escalante’s mother decided to divorce her father due to his infidelity, alcoholism and abuse. At the divorce court proceedings, her father was granted custody of all seven children, because of her mother’s lack of employment and housing. After the divorce, Escalante’s mother moved to Los Angeles to live with her sister and find work in hopes that she might be able to regain custody of her children. Devastated to be separated from her mother, and miserable with “the oppressive situation” of living with her father’s extended family (who frequently blamed her mother for the divorce), Alicia Escalante vowed to be reunited with her mother at any cost., At the age of nine, Escalante jumped into an open freight car of the train that ran behind her house. She was determined to make it to California by any means necessary.After the police discovered her, her father allowed her to continue on her journey to California, where her legacy would begin.

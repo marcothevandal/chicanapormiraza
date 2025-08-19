@@ -6,9 +6,9 @@ education:
 bio_detail:
 quote: I am a socialist feminist because I strongly believe that everybody can someday be equal and that we can end the oppression that we as 3rd World Women as well as other oppressed groups face.
 description: Yolanda Alaniz was born in Brownsville, Texas and raised in Sunnyside, Washington in the Yakima Valley where she and her family worked as farmworkers. Tired of earning very low wages, her mother organized rallies along side other farm workers and most notably union leader Caesar Chavez to protest the unjust conditions and unfair wages many workers faced.
-image_large: https://chicanapormiraza.org/sites/default/files/styles/large/public/Screen%20Shot%202015-11-03%20at%206.34.04%20AM.png
-image_small: https://chicanapormiraza.org/sites/default/files/styles/medium/public/Screen%20Shot%202015-11-03%20at%206.34.04%20AM.png
-image_thumb: https://chicanapormiraza.org/sites/default/files/styles/square_thumbnail/public/Screen%20Shot%202015-11-03%20at%206.34.04%20AM.png
+image_large: https://cpmrark.reclaim.hosting/mujeres/yolandaalaniz.png	
+image_small: https://cpmrark.reclaim.hosting/mujeres/small/yolandaalaniz_sm.jpg	
+image_thumb: https://cpmrark.reclaim.hosting/mujeres/thumbs/yolandaalaniz_th.jpg
 ---
 
 Yolanda Alaniz was born in Brownsville, Texas and raised in Sunnyside, Washington in the Yakima Valley where she and her family worked as farmworkers. Tired of earning very low wages, her mother organized rallies along side other farm workers and most notably union leader Caesar Chavez to protest the unjust conditions and unfair wages many workers faced.

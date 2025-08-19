@@ -6,9 +6,9 @@ education:
 bio_detail: "Organizations: Brown Berets, Las Adelitas de Aztlán"
 quote: I understand my power as a woman because I give life, I am a teacher, I am a nurturer, I provide spirituality teachings, and when we collectively come together as women, it's such a powerful thing.
 description: Gloria Arellanes was born in East Los Angeles in 1946, but for the majority of her life, she has resided in El Monte, California, living in the same home for over fifty years. Her father was a first generation Mexican-American whose family migrated to the United States from Chihuahua, Mexico, and her mother was a Tongva Native American. In the 1950s and 1960s, El Monte experienced extreme racial tension, and Arellanes witnessed race riots throughout her high school years. She attended college briefly before choosing to drop out, pursuing travel and more life experience.
-image_large: https://chicanapormiraza.org/sites/default/files/styles/large/public/Screen%20Shot%202015-11-02%20at%2011.12.29%20AM.png
-image_small: https://chicanapormiraza.org/sites/default/files/styles/medium/public/Screen%20Shot%202015-11-02%20at%2011.12.29%20AM.png
-image_thumb: https://chicanapormiraza.org/sites/default/files/styles/square_thumbnail/public/Screen%20Shot%202015-11-02%20at%2011.12.29%20AM.png
+image_large: https://cpmrark.reclaim.hosting/mujeres/gloriaarellanes.png
+image_small: https://cpmrark.reclaim.hosting/mujeres/small/gloriaarellanes_sm.jpg
+image_thumb: https://cpmrark.reclaim.hosting/mujeres/thumbs/gloriaarellanes_th.jpg
 ---
 
 Gloria Arellanes was born in East Los Angeles in 1946, but for the majority of her life, she has resided in El Monte, California, living in the same home for over fifty years. Her father was a first generation Mexican-American whose family migrated to the United States from Chihuahua, Mexico, and her mother was a Tongva Native American. In the 1950s and 1960s, El Monte experienced extreme racial tension, and Arellanes witnessed race riots throughout her high school years. She attended college briefly before choosing to drop out, pursuing travel and more life experience. At this young age, she began interacting with a group that would later proclaim themselves the Brown Berets.

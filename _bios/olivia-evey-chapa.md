@@ -6,9 +6,9 @@ education: University of Texas
 bio_detail:
 quote: People heard the call and came from everywhere. People in these tents and buildings... wherever, teaching the kids so they wouldn't get behind because they walked out. Amazing. It's amazing what people will do when they have a feel for it. El corazón.
 description: Olivia “Evey” Chapa, a lifelong resident of Texas, was born in Alice. Growing up, her supportive family created the foundation for the love she has for other people. She comes from a financially stable family; her grandfather was a banker, her father a police officer, and her mother was a saleslady. The work ethic of her mother and father was well-developed.
-image_large: https://chicanapormiraza.org/sites/default/files/styles/large/public/olivia%20evey%20chapa.jpg
-image_small: https://chicanapormiraza.org/sites/default/files/styles/medium/public/olivia%20evey%20chapa.jpg
-image_thumb: https://chicanapormiraza.org/sites/default/files/styles/square_thumbnail/public/olivia%20evey%20chapa.jpg
+image_large: https://cpmrark.reclaim.hosting/mujeres/oliviaeveychapa.jpg
+image_small: https://cpmrark.reclaim.hosting/mujeres/small/oliviaeveychapa_sm.jpg
+image_thumb: https://cpmrark.reclaim.hosting/mujeres/thumbs/oliviaeveychapa_th.jpg
 ---
 
 Olivia “Evey” Chapa, a lifelong resident of Texas, was born in Alice. Growing up, her supportive family created the foundation for the love she has for other people. She comes from a financially stable family; her grandfather was a banker, her father a police officer, and her mother was a saleslady. The work ethic of her mother and father was well-developed. In her oral history interview, Evey discusses her parents’ family roles and collaboration with each other: “both of them working, both of them taking care of the children, daddy cooked, mama cooked, it didn’t matter, when things got done, they got done; didn’t matter who did it.” This work ethic emanating from her family helped build Olivia’s own determination to get to work.

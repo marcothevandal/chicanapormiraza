@@ -5,13 +5,12 @@ born:
 education: Mesa Community College, San Diego State University
 bio_detail:
 quote: I was making the declaration about not just being a Mexican American. I was a Chicana. It had nothing to do with what other people said, it is my declaration and it came from me.
-description: Olivia Puentes Reynolds sits for her interview with a guitar on her knee. Hers is a story of music and mythology, her activism inspired by poetry. Reynolds’ archive of health reports and radical newsletters is peppered with songs and drawings, complete with an entire _teatro frontera _booklet. Throughout her life, Reynolds combined art, music, and writing to stand up for social change.
-image_large: https://chicanapormiraza.org/sites/default/files/styles/large/public/oliviapuentesreynolds.jpg
-image_small: https://chicanapormiraza.org/sites/default/files/styles/medium/public/oliviapuentesreynolds.jpg
-image_thumb: https://chicanapormiraza.org/sites/default/files/styles/square_thumbnail/public/oliviapuentesreynolds.jpg
+description: Olivia Puentes Reynolds sits for her interview with a guitar on her knee. Hers is a story of music and mythology, her activism inspired by poetry. Reynolds’ archive of health reports and radical newsletters is peppered with songs and drawings, complete with an entire _teatro frontera _booklet_. Throughout her life, Reynolds combined art, music, and writing to stand up for social change.
+image_large: https://cpmrark.reclaim.hosting/mujeres/oliviapuentesreynolds.jpg
+image_small: https://cpmrark.reclaim.hosting/mujeres/small/oliviapuentesreynolds_sm.jpg
+image_thumb: https://cpmrark.reclaim.hosting/mujeres/thumbs/oliviapuentesreynolds_th.jpg
 ---
-
-Olivia Puentes Reynolds sits for her interview with a guitar on her knee. Hers is a story of music and mythology, her activism inspired by poetry. Reynolds’ archive of health reports and radical newsletters is peppered with songs and drawings, complete with an entire _teatro frontera _booklet. Throughout her life, Reynolds combined art, music, and writing to stand up for social change.
+Olivia Puentes Reynolds sits for her interview with a guitar on her knee. Hers is a story of music and mythology, her activism inspired by poetry. Reynolds’ archive of health reports and radical newsletters is peppered with songs and drawings, complete with an entire _teatro frontera _booklet_. Throughout her life, Reynolds combined art, music, and writing to stand up for social change.
 
 Olivia Puentes Reynolds was born to a mixed-race family – her mother Chicana, her father Irish, English, and Cherokee. While she speaks about loving her mixed-race heritage, Reynolds says she always identified as Chicana, even though she grew up speaking English as her first language. Reynolds did not have an easy childhood; she mentions experiencing domestic abuse, as well as discrimination for being a person of color. She found comfort in music, learning to play guitar at the age of 18 and continuing to play music for the rest of her life.
 

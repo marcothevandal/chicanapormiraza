@@ -5,10 +5,10 @@ born: October 2, 1954
 education: Masters of Public Health, University of Michigan
 bio_detail:
 quote: "For me, you have two choices when you're faced with things like that [racism] growing up: you either internalize it and become ashamed of who you are...or you become radicalized. I was raising four children as a single parent in the community when I was going to funerals for kids every other week...every other week."
-description: Angela Reyes was born on October 2,1954 and has lived and served in the community of Southwest Detroit ever since. Throughout her time from elementary to high school, Angela recounts coming face-to-face with prejudicial attitudes from classmates and teachers, experiences that forever marked her own developing, personal identity as a Mexican woman with indigenous roots.
-image_large: https://chicanapormiraza.org/sites/default/files/styles/large/public/AR215%20Screenshot.png
-image_small: https://chicanapormiraza.org/sites/default/files/styles/medium/public/AR215%20Screenshot.png
-image_thumb: https://chicanapormiraza.org/sites/default/files/styles/square_thumbnail/public/AR215%20Screenshot.png
+description: Angela Reyes was born on October 2,1954 and has lived and served in the community of Southwest Detroit ever since. Throughout her time from elementary to high school, Angela recounts coming face-to-face with prejudicial attitudes from classmates and teachers, experiences that forever marked her own developing, personal identity as a Mexican woman with indigenous roots. 
+image_large: https://cpmrark.reclaim.hosting/mujeres/angeleaangiereyes.png
+image_small: https://cpmrark.reclaim.hosting/mujeres/small/angeleaangiereyes_sm.jpg
+image_thumb: https://cpmrark.reclaim.hosting/mujeres/thumbs/angeleaangiereyes_th.jpg
 ---
 
 Angela Reyes was born on October 2,1954 and has lived and served in the community of Southwest Detroit ever since. Throughout her time from elementary to high school, Angela recounts coming face-to-face with prejudicial attitudes from classmates and teachers, experiences that forever marked her own developing, personal identity as a Mexican woman with indigenous roots.

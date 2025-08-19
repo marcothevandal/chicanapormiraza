@@ -3,12 +3,12 @@ objectid: ruth-mojica-hammer
 title: Ruth Mojica-Hammer
 born:
 education:
-bio_detail: First Mexican American woman to run for congressional office in the state of Illinois, 1972. Founder, Mexican American Business and Professional Women's Club of Chicago
+bio_detail: First Mexican American woman to run for congressional office in the state of Illinois, 1972. <br>Founder, Mexican American Business and Professional Women's Club of Chicago
 quote: Look for something to do, be involved, find a reason to exist!
 description: As the Executive Director of Spanish Language Programming at a local Chicago TV station Ruth ‘Rhea’ Mojica-Hammer was also the first Mexican American woman to run for congressional office in the state of Illinois. Although she didn’t win, Rhea, went on to manage a successful campaign for the first Latina elected to public office in Illinois, Cook County Commissioner Irene Hernandez.
-image_large: https://chicanapormiraza.org/sites/default/files/styles/large/public/1401_011_NDLSR_112714_506.jpg
-image_small: https://chicanapormiraza.org/sites/default/files/styles/medium/public/1401_011_NDLSR_112714_506.jpg
-image_thumb: https://chicanapormiraza.org/sites/default/files/styles/square_thumbnail/public/1401_011_NDLSR_112714_506.jpg
+image_large: https://cpmrark.reclaim.hosting/mujeres/ruthie.jpg
+image_small: https://cpmrark.reclaim.hosting/mujeres/small/ruthie_sm.jpg
+image_thumb: https://cpmrark.reclaim.hosting/mujeres/thumbs/ruthie_th.jpg
 ---
 
 As the Executive Director of Spanish Language Programming at a local Chicago TV station Ruth ‘Rhea’ Mojica-Hammer was also the first Mexican American woman to run for congressional office in the state of Illinois. Although she didn’t win, Rhea, went on to manage a successful campaign for the first Latina elected to public office in Illinois, Cook County Commissioner Irene Hernandez.

@@ -6,9 +6,9 @@ education: University of Texas at El Paso and Antioch College
 bio_detail:
 quote: My upbringing had a strong dose of progressive politics.
 description: Martha Cotera was born in Chihuahua, Mexico in 1938. Cotera describes her upbringing as having a strong dose of progressive politics as a result of her grandparents’ interest in Mexican politics. In 1946, Cotera and her mother immigrated to El Paso, Texas. Cotera was reluctant to move and encountered racist policies in both elementary school and high school while in Texas. Despite these challenges, she describes herself as a “total overachiever” in high school as she was a member of the Writing club, English club, and editor of the school newspaper.
-image_large: https://chicanapormiraza.org/sites/default/files/styles/large/public/MartaCotera.png
-image_small: https://chicanapormiraza.org/sites/default/files/styles/medium/public/MartaCotera.png
-image_thumb: https://chicanapormiraza.org/sites/default/files/styles/square_thumbnail/public/MartaCotera.png
+image_large: https://cpmrark.reclaim.hosting/mujeres/marthacotera.png
+image_small: https://cpmrark.reclaim.hosting/mujeres/marthacotera.png
+image_thumb: https://cpmrark.reclaim.hosting/mujeres/marthacotera.png
 ---
 
 Martha Cotera was born in Chihuahua, Mexico in 1938. Cotera describes her upbringing as having a strong dose of progressive politics as a result of her grandparents’ interest in Mexican politics. In 1946, Cotera and her mother immigrated to El Paso, Texas. Cotera was reluctant to move and encountered racist policies in both elementary school and high school while in Texas. Despite these challenges, she describes herself as a “total overachiever” in high school as she was a member of the Writing club, English club, and editor of the school newspaper. Cotera earned her Bachelor of Arts in English with a minor in History at the University of Texas at El Paso in 1962, the same year she became a United States citizen. Cotera cites this period as marking her awakening as a political activist.

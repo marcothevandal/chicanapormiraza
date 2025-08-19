@@ -3,12 +3,12 @@ objectid: ana-luisa-cardona
 title: Ana Luisa Cardona
 born:
 education:
-bio_detail: Grew up in the Bronx and attended Marymount Manhattan College. <br>Worked for the Michigan Department of Education for 23 years.
-quote: That probably was influencing why my parents were being so protective because it was the 60s, and things were changing, and they didn't understand this world, or me, and why I was beginning to do the things I was doing.
-description: Ana Luisa Cardona was born on June 11, 1950 in the Bronx, NY. Her Puerto Rican parents raised Cardona with her brother in a traditionally Jewish neighborhood that slowly evolved to a multi-ethnic minority space. In elementary school, Cardona was placed in a special education class and tracked into lower ability-level classes because she was shy, but she soon grew out of her shyness thanks to dance classes. Her mother ensured that Cardona’s first language was English and that Cardona had access to equitable education by enrolling her in parochial school.
-image_large: https://chicanapormiraza.org/sites/default/files/styles/large/public/Screen%20Shot%202015-12-08%20at%203.04.37%20PM.png
-image_small: https://chicanapormiraza.org/sites/default/files/styles/medium/public/Screen%20Shot%202015-12-08%20at%203.04.37%20PM.png
-image_thumb: https://chicanapormiraza.org/sites/default/files/styles/square_thumbnail/public/Screen%20Shot%202015-12-08%20at%203.04.37%20PM.png
+bio_detail: 
+description: Ana Luisa Cardona was born on June 11, 1950 in the Bronx, NY. Her Puerto Rican parents raised Cardona with her brother in a traditionally Jewish neighborhood that slowly evolved to a multi-ethnic minority space. Cardona would go on to be an influential scholar, artist, and activist, founding the Chicano Advocates Office at the University of Michigan, where she collaborated with Jesse Gonzalez and Julio Perazza, her future partner in life and love, to create the influential Raza Art and Media Collective. 
+quote: "That probably was influencing why my parents were being so protective because it was the 60s, and things were changing, and they didn't understand this world, or me, and why I was beginning to do the things I was doing."
+image_large: https://cpmrark.reclaim.hosting/mujeres/analuisacardona.png
+image_small: https://cpmrark.reclaim.hosting/mujeres/small/analuisacardona_sm.jpg
+image_thumb: https://cpmrark.reclaim.hosting/mujeres/thumbs/analuisacardona_th.jpg
 ---
 
 Ana Luisa Cardona was born on June 11, 1950 in the Bronx, NY. Her Puerto Rican parents raised Cardona with her brother in a traditionally Jewish neighborhood that slowly evolved to a multi-ethnic minority space. In elementary school, Cardona was placed in a special education class and tracked into lower ability-level classes because she was shy, but she soon grew out of her shyness thanks to dance classes. Her mother ensured that Cardona’s first language was English and that Cardona had access to equitable education by enrolling her in parochial school.

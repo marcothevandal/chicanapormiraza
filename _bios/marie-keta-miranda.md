@@ -6,9 +6,9 @@ education: Ph.D., History of Consciousness, University of California, Santa Cruz
 bio_detail:
 quote: We could consider ourselves Chicana and feminist... This was our legitimation. This was our moment to be understood. That to be feminist was not to be vendida.
 description: Marie “Keta” Miranda was born in Los Angeles, California during a time of— in her words — “urban removal,” not “urban renewal.” Her mother was very involved in church organizing activities, from charities to fiestas. It is through her mother that Keta understood the church to be a place for women where they can “laugh out loud and have a good time with each other.” Her mother was a housewife putting in a lot of labor and love raising eight children, six girls and two boys. Her father worked first as a general laborer, then a postal carrier, and then a tile-setter.
-image_large: https://chicanapormiraza.org/sites/default/files/styles/large/public/Marie%20Keta%20Miranda.jpg
-image_small: https://chicanapormiraza.org/sites/default/files/styles/medium/public/Marie%20Keta%20Miranda.jpg
-image_thumb: https://chicanapormiraza.org/sites/default/files/styles/square_thumbnail/public/Marie%20Keta%20Miranda.jpg
+image_large: https://cpmrark.reclaim.hosting/mujeres/marieketamiranda.jpg
+image_small: https://cpmrark.reclaim.hosting/mujeres/small/marieketamiranda_sm.jpg
+image_thumb: https://cpmrark.reclaim.hosting/mujeres/thumbs/marieketamiranda_th.jpg
 ---
 
 Marie “Keta” Miranda was born in Los Angeles, California during a time of— in her words — “urban removal,” not “urban renewal.” Her mother was very involved in church organizing activities, from charities to fiestas. It is through her mother that Keta understood the church to be a place for women where they can “laugh out loud and have a good time with each other.” Her mother was a housewife putting in a lot of labor and love raising eight children, six girls and two boys. Her father worked first as a general laborer, then a postal carrier, and then a tile-setter. Keta’s father was atheist and she grew up being told by her mother to pray for her father’s conversion as the Catholic Church recited a prayer for the conversion of Russia at the end of every mass during the Cold War. To her father’s satisfaction, Keta too became atheist.

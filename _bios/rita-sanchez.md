@@ -6,9 +6,9 @@ education: Stanford University
 bio_detail:
 quote: "In order to complete my Ph.d at UCSD and get tenure at SDSU, I had three full time jobs: full time mother; full time grad student; and full time professor."
 description: Rita Sanchez was born and brought up in San Bernardino, California, seventh of eleven children. Her parents and their parents were from New Mexico, which had been home to her family for generations. Her ancestors were, in her words, the “first mestizos,” because of intermarriage between Spanish and Indian. This history, Sanchez points out, was the beginning of her “Chicana coming-to-consciousness,” the pride in her heritage, a tradition that she has celebrated throughout her life.
-image_large: https://chicanapormiraza.org/sites/default/files/styles/large/public/ritasanchez.jpg
-image_small: https://chicanapormiraza.org/sites/default/files/styles/medium/public/ritasanchez.jpg
-image_thumb: https://chicanapormiraza.org/sites/default/files/styles/square_thumbnail/public/ritasanchez.jpg
+image_large: https://cpmrark.reclaim.hosting/mujeres/ritasanchez.jpg
+image_small: https://cpmrark.reclaim.hosting/mujeres/small/ritasanchez_sm.jpg
+image_thumb: https://cpmrark.reclaim.hosting/mujeres/thumbs/ritasanchez_th.jpg
 ---
 
 Rita Sanchez was born and brought up in San Bernardino, California, seventh of eleven children. Her parents and their parents were from New Mexico, which had been home to her family for generations. Her ancestors were, in her words, the “first mestizos,” because of intermarriage between Spanish and Indian. This history, Sanchez points out, was the beginning of her “Chicana coming-to-consciousness,” the pride in her heritage, a tradition that she has celebrated throughout her life.

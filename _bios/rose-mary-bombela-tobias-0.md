@@ -6,9 +6,9 @@ education:
 bio_detail: Principal at Diversity Solutions Group, LLC <br>co-author, Barron’s The Complete Job Search Guide for Latinos
 quote: I don’t want to just be a stewardess and just serve coffee – I want to be Lois Lane…
 description: Rose Mary Bombela-Tobias was born in East Chicago, Indiana to Mexican migrants. After her father’s retirement from working in a steel mill while she was in grammar school, her family relocated to El Paso, Texas. There, she attended a Lithuanian school where she was one of the few Latinas. It was when she attended Urban High School, whose population was predominantly children of white military families, that she began noticing social politics. For example, she noted that as more Latino students enrolled in the high school, most were being placed in remedial courses.
-image_large: https://chicanapormiraza.org/sites/default/files/styles/large/public/Bombela-Tobias_cropped_0.jpg
-image_small: https://chicanapormiraza.org/sites/default/files/styles/medium/public/Bombela-Tobias_cropped_0.jpg
-image_thumb: https://chicanapormiraza.org/sites/default/files/styles/square_thumbnail/public/Bombela-Tobias_cropped_0.jpg
+image_large: https://cpmrark.reclaim.hosting/mujeres/rosemarybombelatobias.jpg
+image_small: https://cpmrark.reclaim.hosting/mujeres/small/rosemarybombelatobias_sm.jpg
+image_thumb: https://cpmrark.reclaim.hosting/mujeres/thumbs/rosemarybombelatobias_th.jpg
 ---
 
 Rose Mary Bombela-Tobias was born in East Chicago, Indiana to Mexican migrants. After her father’s retirement from working in a steel mill while she was in grammar school, her family relocated to El Paso, Texas. There, she attended a Lithuanian school where she was one of the few Latinas. It was when she attended Urban High School, whose population was predominantly children of white military families, that she began noticing social politics. For example, she noted that as more Latino students enrolled in the high school, most were being placed in remedial courses.

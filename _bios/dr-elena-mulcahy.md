@@ -5,9 +5,9 @@ born:education: Ed.D, Nova University
 bio_detail: Assistant Dean of Adult Education, Truman College
 quote: I’m not interested in being remembered, I’m interested in having the work survive.
 description: Dr. Elena Mulcahy was born on the South side of Chicago, Illinois on May 24, 1937 as Elena Berezaluce. Her parents were immigrants from Tabasco, Mexico. Although she grew up with her cousins on Chicago’s South side, her family lived in an area where there were few other Mexicans. Growing up bilingual, at an early age Elena not only helped translate for her primarily Spanish-speaking parents, but also for other community members and her fellow students and teachers.
-image_large: https://chicanapormiraza.org/sites/default/files/styles/large/public/Elena-200x200_0.jpg
-image_small: https://chicanapormiraza.org/sites/default/files/styles/medium/public/Elena-200x200_0.jpg
-image_thumb: https://chicanapormiraza.org/sites/default/files/styles/square_thumbnail/public/Elena-200x200_0.jpg
+image_large: https://cpmrark.reclaim.hosting/mujeres/dr-elena-mulcahy.jpg
+image_small: https://cpmrark.reclaim.hosting/mujeres/small/dr-elena-mulcahy_sm.jpg
+image_thumb: https://cpmrark.reclaim.hosting/mujeres/thumbs/dr-elena-mulcahy_th.jpg
 ---
 
 Dr. Elena Mulcahy was born on the South side of Chicago, Illinois on May 24, 1937 as Elena Berezaluce. Her parents were immigrants from Tabasco, Mexico. Although she grew up with her cousins on Chicago’s South side, her family lived in an area where there were few other Mexicans. Growing up bilingual, at an early age Elena not only helped translate for her primarily Spanish-speaking parents, but also for other community members and her fellow students and teachers.

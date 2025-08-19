@@ -6,9 +6,9 @@ education: University of New Mexico
 bio_detail:
 quote: I remember I raised my hand right away [and said], ‘My mother said that they stole all that land from Mexico!’
 description: "Enriqueta Vasquez was born in 1930 in Cheraw, Colorado to a large family near the farm labor camps. Her parents were very political, and her mother was a curandera and midwife for the community. Her first experiences with racism took place at school: all the Mexican American children were segregated to one room and taught by only one teacher. The students were punished for speaking Spanish and there were separate swings for the Mexican American and Anglo children. But Enriqueta found her activist voice at a young age."
-image_large: https://chicanapormiraza.org/sites/default/files/styles/large/public/20180228-173035-67908.jpg
-image_small: https://chicanapormiraza.org/sites/default/files/styles/medium/public/20180228-173035-67908.jpg
-image_thumb: https://chicanapormiraza.org/sites/default/files/styles/square_thumbnail/public/20180228-173035-67908.jpg
+image_large: https://cpmrark.reclaim.hosting/mujeres/enriquetavasquez.jpg
+image_small: https://cpmrark.reclaim.hosting/mujeres/small/enriquetavasquez_sm.jpg
+image_thumb: https://cpmrark.reclaim.hosting/mujeres/thumbs/enriquetavasquez_th.jpg
 ---
 
 Enriqueta Vasquez was born in 1930 in Cheraw, Colorado to a large family near the farm labor camps. Her parents were very political, and her mother was a curandera and midwife for the community. Her first experiences with racism took place at school: all the Mexican American children were segregated to one room and taught by only one teacher. The students were punished for speaking Spanish and there were separate swings for the Mexican American and Anglo children. But Enriqueta found her activist voice at a young age. In the fourth grade, she recalls speaking up during a history lesson on the U.S. Southwest: “I remember I raised my hand right away [and said], ‘My mother said that they stole all that land from Mexico!’”

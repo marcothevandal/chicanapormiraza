@@ -4,10 +4,11 @@ title: Frances Sandoval Melendez
 born:
 education:
 bio_detail: Founder, Mothers Against Gangs
-quote:description: Frances Sandoval Melendez was born in 1953 in the Trumbull Park area of Chicago, Illinois. She lived with her parents and three sisters, who were “the first Mexicans” to own a house in a mostly Jewish and Polish community. Frances grew up going to Catholic school and attended Saint Casimir’s, now known as Our Lady of Tepeyac. She started noticing inequality as young as at eight years old, when the nuns at her school called on and gave more positive attention to the white students than to her. Thus, Frances became aware of racism and inequality from an early age.
-image_large: https://chicanapormiraza.org/sites/default/files/styles/large/public/default_images/headshot.png
-image_small: https://chicanapormiraza.org/sites/default/files/styles/medium/public/default_images/headshot.png
-image_thumb: https://chicanapormiraza.org/sites/default/files/styles/square_thumbnail/public/default_images/headshot.png
+quote:
+description: Frances Sandoval Melendez was born in 1953 in the Trumbull Park area of Chicago, Illinois. She lived with her parents and three sisters, who were “the first Mexicans” to own a house in a mostly Jewish and Polish community. Frances grew up going to Catholic school and attended Saint Casimir’s, now known as Our Lady of Tepeyac. She started noticing inequality as young as at eight years old, when the nuns at her school called on and gave more positive attention to the white students than to her. Thus, Frances became aware of racism and inequality from an early age.
+image_large: https://cpmrark.reclaim.hosting/mujeres/noimage.png
+image_small: https://cpmrark.reclaim.hosting/mujeres/small/noimage_sm.jpg
+image_thumb: https://cpmrark.reclaim.hosting/mujeres/thumbs/noimage_th.jpg
 ---
 
 Frances Sandoval Melendez was born in 1953 in the Trumbull Park area of Chicago, Illinois. She lived with her parents and three sisters, who were “the first Mexicans” to own a house in a mostly Jewish and Polish community. Frances grew up going to Catholic school and attended Saint Casimir’s, now known as Our Lady of Tepeyac. She started noticing inequality as young as at eight years old, when the nuns at her school called on and gave more positive attention to the white students than to her. Thus, Frances became aware of racism and inequality from an early age.

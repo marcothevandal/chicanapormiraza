@@ -5,10 +5,10 @@ born: El Paso, Texas
 education: Doctor of Ministry Degree
 bio_detail:
 quote: For [Las] Hermanas, our goal was always to stay with people. Our goal was always to immerse ourselves with people.
-description: From her beginnings as a girl who only spoke Spanish in east El Paso, Texas to becoming one of the most influential members of the Las Hermanas organization, Sister Yolanda Tarango is a proud Chicana feminist. She is the oldest of 7 children and started school in an “Anglo” Catholic school where she learned to speak English, but also experienced her first wave of institutionalized racism.
-image_large: https://chicanapormiraza.org/sites/default/files/styles/large/public/Still%20For%20Sister%20Yolanda%20Tarango.png
-image_small: https://chicanapormiraza.org/sites/default/files/styles/medium/public/Still%20For%20Sister%20Yolanda%20Tarango.png
-image_thumb: https://chicanapormiraza.org/sites/default/files/styles/square_thumbnail/public/Still%20For%20Sister%20Yolanda%20Tarango.png
+description: From her beginnings as a girl who only spoke Spanish in east El Paso, Texas to becoming one of the most influential members of the Las Hermanas organization, Sister Yolanda Tarango is a proud Chicana feminist.
+image_large: https://cpmrark.reclaim.hosting/mujeres/sisteryolandatarango.png
+image_small: https://cpmrark.reclaim.hosting/mujeres/small/sisteryolandatarango_sm.jpg
+image_thumb: https://cpmrark.reclaim.hosting/mujeres/thumbs/sisteryolandatarango_th.jpg
 ---
 
 From her beginnings as a girl who only spoke Spanish in east El Paso, Texas to becoming one of the most influential members of the Las Hermanas organization, Sister Yolanda Tarango is a proud Chicana feminist. She is the oldest of 7 children and started school in an “Anglo” Catholic school where she learned to speak English, but also experienced her first wave of institutionalized racism. However, as she changed schools in her fourth-grade year due to the unfair gerrymandering that racially separated her Latina community from the church, her family moved her and her siblings to the “Mexican” church school. It was here that she really excelled because of her knowledge of English from her previous schooling experience. She graduated from there to go to a Catholic high school, and just after graduating high school, she joined the convent in 1966 and is still a nun today.

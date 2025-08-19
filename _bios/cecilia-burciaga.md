@@ -5,10 +5,10 @@ born:
 education: University of California
 bio_detail:
 quote: There is history, it didn’t just appear when you appeared. But maybe that’s what my generation is about, we are the reganionas.
-description: Cecilia has a BA in Teaching Credential from California State University – Fullerton and a Master’s Degree in Policy Studies in Higher Education from the University of California – Riverside. Some doctoral course work was completed at the University of La Verne. After moving to Washington, D.C., in year, Cecilia became a Foreign Service Intern for the U.S. Information Agency and a Program Officer for the Interagency Committee on Mexican-American Affairs. She also worked a Commissioner for the US Commission On Civil Rights, and as a teacher in the Chino School District.
-image_large: https://chicanapormiraza.org/sites/default/files/styles/large/public/Screen%20Shot%202015-07-21%20at%2012.35.49%20PM.png
-image_small: https://chicanapormiraza.org/sites/default/files/styles/medium/public/Screen%20Shot%202015-07-21%20at%2012.35.49%20PM.png
-image_thumb: https://chicanapormiraza.org/sites/default/files/styles/square_thumbnail/public/Screen%20Shot%202015-07-21%20at%2012.35.49%20PM.png
+description: Cecilia has a BA in Teaching Credential from California State University – Fullerton and a Master’s Degree in Policy Studies in Higher Education from the University of California – Riverside. After moving to Washington, D.C., in year, Cecilia became a Foreign Service Intern for the U.S. Information Agency and a Program Officer for the Interagency Committee on Mexican-American Affairs. She also worked a Commissioner for the US Commission On Civil Rights, and as a teacher in the Chino School District.
+image_large: https://cpmrark.reclaim.hosting/mujeres/ceciliaburciaga.png
+image_small: https://cpmrark.reclaim.hosting/mujeres/small/ceciliaburciaga_sm.jpg
+image_thumb: https://cpmrark.reclaim.hosting/mujeres/thumbs/ceciliaburciaga_th.jpg
 ---
 
 Cecilia has a BA in Teaching Credential from California State University – Fullerton and a Master’s Degree in Policy Studies in Higher Education from the University of California – Riverside. Some doctoral course work was completed at the University of La Verne.
@@ -23,7 +23,7 @@ President Carter appointed Cecilia to Commissioner for the National Advisory on 
 
 **Leaving Stanford**
 
-Cecilia was named to Clinton’s Presidential Committee on Latinos in Higher Education. <a href="https://ctools.umich.edu/portal/tool/ae17d8bd-ba4e-4ecc-9653-5059b86a0eb7?pageName=%2Fsite%2F98b2c48e-b197-47b5-97e9-7332b6caa0da%2Fmore&amp;action=view&amp;panel=Main&amp;realm=%2Fsite%2F98b2c48e-b197-47b5-97e9-7332b6caa0da">more?</a> She is currently the Vice President for Presidential Learning at CSU Monterey Bay, where she began working in July 1994. In 2010 Latina Magazine honored Cecilia as one of 50 women named “Pride of the Century.” She was also awarded with the Eleanor Roosevelt Humanitarian Award.
+Cecilia was named to Clinton’s Presidential Committee on Latinos in Higher Education. She is currently the Vice President for Presidential Learning at CSU Monterey Bay, where she began working in July 1994. In 2010 Latina Magazine honored Cecilia as one of 50 women named “Pride of the Century.” She was also awarded with the Eleanor Roosevelt Humanitarian Award. Cecilia passed away from cancer in 2016.
 
-<a href="http://about.csumb.edu/1999-2000/cecilia-burciaga-honored">http://about.csumb.edu/1999-2000/cecilia-burciaga-honored</a>
+
 

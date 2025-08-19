@@ -6,9 +6,9 @@ education: Attended University of Michigan, graduated from Michigan State Univer
 bio_detail:
 quote: Chicana feminism is to be yourself.
 description: Juana Maria Gonzales’s involvement with the Chicana movement started in her hometown of Mercedes, Texas. Born in 1948, Gonzales was the second oldest of eleven children raised in a strict Catholic family in south Texas. From an early age, her family dynamics made her aware of gender disparities and how her identity as a woman changed the way she moved in the world. This realization propelled Gonzales to become interested in women’s issues such as the concept of autonomy and rape culture.
-image_large: https://chicanapormiraza.org/sites/default/files/styles/large/public/JuanaInterview.PNG
-image_small: https://chicanapormiraza.org/sites/default/files/styles/medium/public/JuanaInterview.PNG
-image_thumb: https://chicanapormiraza.org/sites/default/files/styles/square_thumbnail/public/JuanaInterview.PNG
+image_large: https://cpmrark.reclaim.hosting/mujeres/juana-gonzales.png
+image_small: https://cpmrark.reclaim.hosting/mujeres/small/juana-gonzales_sm.jpg
+image_thumb: https://cpmrark.reclaim.hosting/mujeres/thumbs/juana-gonzales_th.jpg
 ---
 
 <p dir="ltr">Juana Maria Gonzales’s involvement with the Chicana movement started in her hometown of Mercedes, Texas. Born in 1948, Gonzales was the second oldest of eleven children raised in a strict Catholic family in south Texas. From an early age, her family dynamics made her aware of gender disparities and how her identity as a woman changed the way she moved in the world. This realization propelled Gonzales to become interested in women’s issues such as the concept of autonomy and rape culture.

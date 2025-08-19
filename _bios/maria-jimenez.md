@@ -6,9 +6,9 @@ education: University of Houston
 bio_detail:
 quote: We were all very focused on the building of the community power, as opposed to winning the position.
 description: Maria D. Jimenez Flores was born in Coahuila, Mexico. Her parents, Raul Gomez Jimenez and Elva Flores, decided to immigrate to the United States when Maria was about six years old. Her paternal grandfather, Jaime Jimenez, was the first of her family to migrate to the United States. Maria and her family immigrated into Houston, Texas on May 9, 1957. Maria began to understand social inequality from a young age. With the influence of her maternal grandfather, Ramon Flores Ortega, and her father’s involvement in activism and social movements, Maria became interested in social justice.
-image_large: https://chicanapormiraza.org/sites/default/files/styles/large/public/Screenshot%20%28126%29.v4.jpeg
-image_small: https://chicanapormiraza.org/sites/default/files/styles/medium/public/Screenshot%20%28126%29.v4.jpeg
-image_thumb: https://chicanapormiraza.org/sites/default/files/styles/square_thumbnail/public/Screenshot%20%28126%29.v4.jpeg
+image_large: https://cpmrark.reclaim.hosting/mujeres/mariajiminez.jpeg
+image_small: https://cpmrark.reclaim.hosting/mujeres/small/mariajiminez_sm.jpg
+image_thumb: https://cpmrark.reclaim.hosting/mujeres/thumbs/mariajiminez_th.jpg
 ---
 
 Maria D. Jimenez Flores was born in Coahuila, Mexico. Her parents, Raul Gomez Jimenez and Elva Flores, decided to immigrate to the United States when Maria was about six years old. Her paternal grandfather, Jaime Jimenez, was the first of her family to migrate to the United States. Maria and her family immigrated into Houston, Texas on May 9, 1957. Maria began to understand social inequality from a young age. With the influence of her maternal grandfather, Ramon Flores Ortega, and her father’s involvement in activism and social movements, Maria became interested in social justice. As she read many books about “La Revolución,” or the Mexican Revolution, Maria decided that social justice was her calling.

@@ -6,9 +6,9 @@ education: Wayne State University
 bio_detail:
 quote: Nobody knew that there was any difference among each other. We all lived in the same neighborhood, we all lived at the same level of poverty.
 description: Currently a social worker in the Cesar Chavez Academy High School in Detroit, Michigan, Maria Anita Guadiana’s involvement with activism and social justice started young with the help of her father, Jose Guadiana. Born in May 8th, 1948, she was the only daughter to Jose Guadiana and Maria Guadiana who had four boys before Guadiana was born.
-image_large: https://chicanapormiraza.org/sites/default/files/styles/large/public/maria.png
-image_small: https://chicanapormiraza.org/sites/default/files/styles/medium/public/maria.png
-image_thumb: https://chicanapormiraza.org/sites/default/files/styles/square_thumbnail/public/maria.png
+image_large: https://cpmrark.reclaim.hosting/mujeres/mariaanitaguadiana.png
+image_small: https://cpmrark.reclaim.hosting/mujeres/small/mariaanitaguadiana_sm.jpg
+image_thumb: https://cpmrark.reclaim.hosting/mujeres/thumbs/mariaanitaguadiana_th.jpg
 ---
 
 Currently a social worker in the Cesar Chavez Academy High School in Detroit, Michigan, Maria Anita Guadiana’s involvement with activism and social justice started young with the help of her father, Jose Guadiana. Born in May 8th, 1948, she was the only daughter to Jose Guadiana and Maria Guadiana who had four boys before Guadiana was born. Guadiana cites her father’s organizing with cultural and civic organizations in Detroit and the fact that she grew up in a household with only male siblings as a major influence on her self-identity as an independent and culturally driven individual, regardless of her gender.

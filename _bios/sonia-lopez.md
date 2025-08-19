@@ -5,10 +5,10 @@ born: Sonora Mexico
 education: San Diego State
 bio_detail:
 quote: My whole life was around my politics, my schoolwork and being a student was secondary.
-description: Sonia Lopez was born in Sonora, Mexico. She immigrated at a young age to the United States, moving to Imperial Valley before settling in Calexico, a border town in California.
-image_large: https://chicanapormiraza.org/sites/default/files/styles/large/public/sonialopez.jpg
-image_small: https://chicanapormiraza.org/sites/default/files/styles/medium/public/sonialopez.jpg
-image_thumb: https://chicanapormiraza.org/sites/default/files/styles/square_thumbnail/public/sonialopez.jpg
+description: Sonia Lopez was born in Sonora, Mexico. She immigrated at a young age to the United States, moving to Imperial Valley before settling in Calexico, a border town in California. Lopez had a difficult childhood. Poverty controlled her life; her family didn’t have indoor plumbing, and in her interview, she struggles to hold back tears as she describes how it felt to come to school wearing other student’s hand-me-downs...However, Lopez cites these difficulties as catalyst for change. 
+image_large: https://cpmrark.reclaim.hosting/mujeres/sonialopez.jpg
+image_small: https://cpmrark.reclaim.hosting/mujeres/small/sonialopez_sm.jpg
+image_thumb: https://cpmrark.reclaim.hosting/mujeres/thumbs/sonialopez_th.jpg 
 ---
 
 Sonia Lopez was born in Sonora, Mexico. She immigrated at a young age to the United States, moving to Imperial Valley before settling in Calexico, a border town in California.

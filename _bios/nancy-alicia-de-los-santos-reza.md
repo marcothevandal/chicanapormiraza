@@ -6,9 +6,9 @@ education: BS in radio, TV, film, The University of Texas at Austin; MA in commu
 bio_detail: Writer/Producer, Glamourous Tamale Productions
 quote: My mission is to be a part of elevating the image of Latinas in all media. And to me, that means reflecting a realistic image.
 description: Nancy Alicia De Los Santos Reza was born and raised in Chicago, Illinois. Her parents were born in Texas and migrated to the big city after World War II. Nancy’s father, Nicolas, served in the Navy. Her mother, Micaela, was a stay-at-home mother and housewife, raising six children. Their own negative experience with speaking Spanish in Texas schools, led to the decision for their children to speak English only.
-image_large: https://chicanapormiraza.org/sites/default/files/styles/large/public/1401_0011NDLSR_111014_01401_0011NDLSR_111114_241.jpg
-image_small: https://chicanapormiraza.org/sites/default/files/styles/medium/public/1401_0011NDLSR_111014_01401_0011NDLSR_111114_241.jpg
-image_thumb: https://chicanapormiraza.org/sites/default/files/styles/square_thumbnail/public/1401_0011NDLSR_111014_01401_0011NDLSR_111114_241.jpg
+image_large: https://cpmrark.reclaim.hosting/mujeres/nancydelossantos.jpg
+image_small: https://cpmrark.reclaim.hosting/mujeres/small/nancydelossantos_sm.jpg
+image_thumb: https://cpmrark.reclaim.hosting/mujeres/thumbs/nancydelossantos_th.jpg
 ---
 
 Nancy Alicia De Los Santos Reza was born and raised in Chicago, Illinois. Her parents were born in Texas and migrated to the big city after World War II. Nancy’s father, Nicolas, served in the Navy. Her mother, Micaela, was a stay-at-home mother and housewife, raising six children. Their own negative experience with speaking Spanish in Texas schools, led to the decision for their children to speak English only.
