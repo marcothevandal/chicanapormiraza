@@ -3,15 +3,10 @@ title: Raza Art and Media Collective
 layout: page-narrow
 permalink: /raza.html
 ---
-# Raza Art and Media Collective
+# A Brief History of the Raza Art and Media Collective at the University of Michigan
+_This Historia was researched and created by CPMR Intern Marie Dillivan._
+{% include feature/image.html objectid="cb143" %}
 
-{% include feature/image.html objectid="" %}
-
-## Student created, subject-led explorations of important events, people, or happenings in Chicana history
-
-A Brief History of the Raza Art and Media Collective at the University of Michigan
-
-This Historia was researched and created by CPMR Intern Marie Dillivan.
  
 The Raza Art and Media Collective was founded at the University of Michigan in Ann Arbor in 1974. The group’s founders were University of Michigan students with backgrounds in art, art history, community education, film, photograph, and journalism [1]. They included Ana Luisa Cardona, Michael J. Garcia, Jesse Gonzales, George Vargas, Julio Perazza, S. Zaneta Kosiba Vargas, and Zaragosa Vargas [2]. Ana Cardona described the organization as a “not for profit organization devoted to the creation and documentation of the arts and media by and for the Spanish-speaking and non-Spanish-speaking communities”[3]. While the members were mostly Chicana/o students at the University of Michigan, Cardona and Perazza were both Puerto Rican, reflecting the diversity of the Latina/o demographics of the Midwest. The Collective organized themselves as a student organization at the University of Michigan, which included benefits such as office space and funding [4]. They also secured funding through community fundraising activities and grants from the Michigan Council for the Arts and, later, the Literature Program of the National Endowment for the Arts [5].
 
@@ -21,30 +16,27 @@ The RAM Collective responded to the increased activity of Latino and Latin Ameri
 
 Despite its relatively short run, the impact and influence of the journal was far-reaching because it was a critical platform for Latina/o artists in the Midwest during a period when Latina/o art itself was understudied and when the contributions of the Midwest to Latina/o art and literature were fairly unacknowledged. The Raza Art and Media Collective received support for its Journal from universities and departments around the country, including subscription requests and letters of support from UCLA, Indiana University, and Stanford University throughout 1976. A sample of the letters of support for the RAMC Journal from around the country shows the importance of the Journal at the time for Hispanic/Chicano/Latino Studies departments as they were provided with a resource to help introduce their students to Latino art. They also show the wide reach that the Journal had beyond its own community and university, allowing both the artists and the subject of Latina/o art to gain national recognition.
 
+<img src="/chicanapormiraza/web_graphics/historias/NationalChicanaArtExhibit.png" width="500px" style="display: block; margin-left: auto; margin-right: auto;">
 
 Unfortunately, despite widespread support, the last edition of the Raza Art and Media Collective Journal was in 1977. Members of the RAM Collective eventually moved into other phases of their lives, as university students do, and on to other areas of Latina/o arts advocacy in Michigan and elsewhere. The history and impact of the Raza Art and Media Collective and its Journal has been only partially documented. Karen Mary Davalos provides an accurate summary of how the Collective established themselves as part of the national fabric of the Chicano arts movement while remaining open regarding the aesthetic, conceptual and ideological boundaries of “Raza art.” She notes:  “The rejection of a ‘strict Chicano or Latino/Raza aesthetic’ allowed these Midwestern groups to support the Chicano nationalist project of self-determination and empowerment and position themselves as an ‘integral part of Aztlán’ while remaining inclusive of artists whose identities were not Chicano” [8]. With only four issues of the journal, the Collective was able to help to fill a void and make themselves and their art visible around the country while promoting their efforts to bring more visbility,  and inclusivity, to Latino art. The fact that the group achieved national recognition and success in such a short period of time and with such a small amount of resources is indicative of the contemporary need for material on the subject of Chicano and Latino art.  
 
-Anchor[1] Olga U. Herrera "Raza Art and Media Collective: A Latino Art Group in the Midwestern United States." Institute for Latino Studies, University of Notre Dame: 32.
-[2] The Raza Art and Media Collective Journal I, no. 1 (1976): 1.
-Anchor[3] “Ana Cardona CV.” Ana Cardona Archive, Chicana Por Mi Raza, 1979. Medici.
-Anchor[4] “Ana Cardona Oral History.” Ana Cardona Archive, Chicana Por Mi Raza, 2015. Medici.
-Anchor[5] “Ana Cardona CV”, Chicana Por Mi Raza
-Anchor[6] Herrera, “Raza Art and Media Collective,” 31.
-Anchor[7] Herrera, “Raza Art and Media Collective,” 31.
-Anchor[8] Karen Mary Davalos, Exhibiting Mestizaje: Mexican (American) Museums in the Disapora (Albuquerque: University of New Mexico Press, 2000), 78.
+- [1] Olga U. Herrera "Raza Art and Media Collective: A Latino Art Group in the Midwestern United States." Institute for Latino Studies, University of Notre Dame: 32.
+- [2] The Raza Art and Media Collective Journal I, no. 1 (1976): 1.
+- [4] “Ana Cardona Oral History.” Ana Cardona Archive, Chicana Por Mi Raza, 2015. Medici.
+- [5] “Ana Cardona CV”, Chicana Por Mi Raza
+- [6] Herrera, “Raza Art and Media Collective,” 31.
+- [7] Herrera, “Raza Art and Media Collective,” 31.
+- [8] Karen Mary Davalos, Exhibiting Mestizaje: Mexican (American) Museums in the Disapora (Albuquerque: University of New Mexico Press, 2000), 78.
 
 
-Listen to more of the RAMC Story in Ana Cardona's Own Words:
+## Listen to more of the RAMC Story in Ana Cardona's Own Words:
 
-https://www.youtube.com/embed/yp07lS_L13E
-
-Unknown Object
+{% include feature/video.html objectid="https://www.youtube.com/watch?v=yp07lS_L13E" caption="Ana Cardona Oral History excerpt" %}
 
 
+## Further Learning:
 
-Further Learning:
+Curious to learn more about the artwork of the artists' of the Raza Art and Media Collective? Or perhaps your interest in Chicano Arts in Detroit is piqued? If so, check out, CPMR partner archive El Museo del Norte's site:
 
-Curious to learn more about the artwork of the artists' of the Raza Art and Media Collective? Or perhaps your interest in Chicano Arts in Detroit is piqued? If so, check out, CPMR partner archive El Museo del Norte's Tumblr site featuring an exibition of Julio Perazza's work.
-
-https://elmuseodelnorte.tumblr.com/
+[El Museo del Norte ](http://www.elmuseodelnorte.org/)
 
