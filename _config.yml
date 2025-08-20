@@ -66,8 +66,8 @@ defaults:
 #
 organization-name: "Chicana por mi Raza Digital Memory Collective"
 organization-link: https://chicanapormiraza.org
-organization-logo-banner: /chicanapormiraza/web_graphics/cpmrlogo.jpg
-organization-logo-nav: /chicanapormiraza/web_graphics/cpmrlogo.jpg
+organization-logo-banner: https://raw.githubusercontent.com/marcosvdotcom/chicanapormiraza/refs/heads/main/web_graphics/cpmrlogo.jpg
+organization-logo-nav: https://raw.githubusercontent.com/marcosvdotcom/chicanapormiraza/refs/heads/main/web_graphics/cpmrlogo.jpg
 ##########
 # ROBOTS EXCLUDE
 #
