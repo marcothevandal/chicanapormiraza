@@ -21,3 +21,9 @@ While at college, Reynolds began noticing oppression based on both her race and 
 A pinnacle moment for Olivia Puentes Reynolds’ activism was when she read her poem, “I heard black is beautiful,” aloud at the Denver youth conference in 1969. Reynolds was 19 years old, very pregnant, and desperately nervous, but she got onstage and read her poem because, as she says, she was used to the unfair treatment of women and wanted to stand up for women as contributors to the Chicano movement. The poem is about wanting to feel beautiful as a brown woman in a world where attention is most often given to white voices. She received a standing ovation from the audience.
 
 Reynolds continues to be active in advocating for women’s rights. Her work now is focused on sexual assault and rape.
+
+## Browse related records
+<br>
+
+{% include feature/image.html objectid="cb318;cb317;cb316" %}
+[Click here for more.](http://127.0.0.1:4000/chicanapormiraza/browse.html#olivia%20puentes%20reynolds%20archive)

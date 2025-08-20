@@ -25,3 +25,8 @@ Maria identifies herself as a feminist but did not participate much in women’s
 
 <a href="https://digital.lib.uh.edu/collection/houhistory/item/2091/show/2090">https://digital.lib.uh.edu/collection/houhistory/item/2091/show/2090</a>
 
+## Browse related records
+<br>
+
+{% include feature/image.html objectid="cb083;cb081;cb078" %}
+[Click here for more.](http://127.0.0.1:4000/chicanapormiraza/search/index.html?q=Maria%20Jimenez%20)

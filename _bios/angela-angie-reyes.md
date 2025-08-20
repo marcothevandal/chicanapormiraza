@@ -23,3 +23,9 @@ Today, DHDC is still directed by the tireless and brilliant efforts of Reyes and
 
 For more information about DHDC, <a href="http://www.dhdc1.org/">click here</a> to visit their official website.
 
+## Browse related records
+<br>
+
+{% include feature/image.html objectid="cb161;cb158" %}
+[Click here for more.](http://127.0.0.1:4000/chicanapormiraza/browse.html#angela%20reyes)
+

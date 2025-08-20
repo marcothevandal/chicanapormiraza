@@ -19,3 +19,8 @@ Keta’s organizing continued into college where she received a scholarship to a
 
 A major event for Keta was the national 1971 Houston Conferencia de Mujeres Por La Raza Chicana conference. A walkout happened at the conference because some mujeres understood the conference’s sponsoring organization, the Young Women’s Christian Association (YWCA), to have a history of oppressing the Chicana/o community. Some participants also did not understand why they were having separate meetings and conferences from Chicanos and men. They argued that they should be organizing as collective Chicana/os, and not just sitting around and talking. Marie did not know how to respond at the time, but later on, she and others developed a new approach by reaching out to women of color. They approached Asian, African, Puerto Rican, and Native American women. It is the identity of women of color and Third World women that Keta felt would bring unity to the Chicano community.
 
+## Browse related records
+<br>
+
+{% include feature/image.html objectid="cb085;cb084;cb086" %}
+[Click here for more.]()

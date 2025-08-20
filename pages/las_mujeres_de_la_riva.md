@@ -4,7 +4,7 @@ layout: page
 permalink: /las_mujeres_de_la_riva.html
 ---
 # Las mujeres de la Riva
-_By Erendina Delgadillo_
+_Written by Erendina Delgadillo in 2022_
 {% include feature/image.html objectid="" %}
 
 Dr. Osa Hidalgo de la Riva (aka “Dr. Eagle Bear”) is a Queer, Chicanx filmmaker and visual artist who has been creating and collaborating across the world–with a focus on the Southwest–since the mid 1960s. Osa is part of a larger familial legacy dedicated to social justice which is rooted in feminism, Indigeneity, and queer celebration. The history of the de la Riva women is emblematic of the ways mixed-race and Latinx families have navigated race, class, sexuality, gender, and colorism within their family and society. 
@@ -25,3 +25,8 @@ The de la Riva’s, like many families, refer to each other using nicknames. In 
 
 <div class="media_embed" height="750px" width="650px"><iframe allowfullscreen="" frameborder="0" height="750px" mozallowfullscreen="" src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1syIY_HB25HcqUnowaO33A4bqgLwUQAuOyg9ruLiuW68&amp;font=Default&amp;lang=en&amp;initial_zoom=2&amp;height=750" webkitallowfullscreen="" width="650px"></iframe></div>
 
+## Browse more photos related to Las Mujeres de la Riva  
+<br>
+
+{% include feature/image.html objectid="cb006;cb004;cb027" %}
+[Click here for more.](http://127.0.0.1:4000/chicanapormiraza/browse.html#lola%20de%20la%20riva)

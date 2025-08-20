@@ -1,10 +1,10 @@
 ---
 title: The Death of Joe Torres & the Continued Fight Against Police Brutality
-layout: page-narrow
+layout: page
 permalink: /joe_torres.html
 ---
 # The Death of Joe Torres and the Continued Fight Against Police Brutality
-_This Historia was researched and created by CPMR Intern Taylor Davidson. It was first published in 2013._ 
+_This Historia was researched and created by CPMR Intern Taylor Davidson. It was first published in 2017._ 
 
 {% include feature/image.html objectid="cb137" %}
 
@@ -35,6 +35,11 @@ Torres’s story seems eerily familiar as tensions between police and minority c
 - [4] https://en.wikipedia.org/wiki/Moody_Park
 - [5] http://www.chron.com/houston/slideshow/Remembering-Joe-Campos-Torres-and-Houston-s-Moody-108489/photo-6271142.php
 
+## Browse more photos related to Jose Torres
+<br>
+
+{% include feature/image.html objectid="cb138;cb136;cb140" %}
+[Click here for more.](http://127.0.0.1:4000/chicanapormiraza/browse.html#jose%20torres)
 
 ## Other Resources
 <br>

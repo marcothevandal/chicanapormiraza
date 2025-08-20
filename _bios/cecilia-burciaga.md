@@ -26,4 +26,3 @@ President Carter appointed Cecilia to Commissioner for the National Advisory on 
 Cecilia was named to Clinton’s Presidential Committee on Latinos in Higher Education. She is currently the Vice President for Presidential Learning at CSU Monterey Bay, where she began working in July 1994. In 2010 Latina Magazine honored Cecilia as one of 50 women named “Pride of the Century.” She was also awarded with the Eleanor Roosevelt Humanitarian Award. Cecilia passed away from cancer in 2016.
 
 
-

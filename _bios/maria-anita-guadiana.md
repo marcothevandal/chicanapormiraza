@@ -21,3 +21,8 @@ In 1972, Guadiana was in the first cohort of _Latino en Marcha_, which was an in
 
 In Detroit, Guadiana became the director of the senior citizens program at LA SED (Latin Americans for Social and Economic Development). She later forged a career in geriatric social work that took her to various communities around Michigan, but eventually, she found herself working with high school populations in Battle Creek, Michigan. Once she saw that there was an opening at the Cesar Chavez Academy High School in Detroit, she returned to her native city and has been working on behalf of students there ever since.
 
+## Browse related records
+<br>
+
+{% include feature/image.html objectid="cb213;cb222;cb217" %}
+[Click here for more.](http://127.0.0.1:4000/chicanapormiraza/browse.html#maria%20guadiana)

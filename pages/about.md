@@ -5,6 +5,9 @@ permalink: /about.html
 ---
 # What is Chicana por mi Raza?
 <br>
+<img src="/chicanapormiraza/web_graphics/front.png" width="800px" style="display: block; margin-left: auto; margin-right: auto;">
+
+<br>
 Chicana por mi Raza Digital Memory Collective is a group of researchers, educators, students, archivists and technologists dedicated to preserving imperiled Chicanx and Latinx histories of the long Civil Rights Era. Started by Professor Maria Cotera and filmmaker Linda Garcia Merchant in 2009, CPMR has traveled to over one dozen states to collect hundreds of hours of oral histories with notable Chicanas, Latinas, and allies. The project has also scanned personal archives for preservation and access. Using largely volunteer and student labor, CPMR offers a model for grassroots digital history that encourages further research into understudied aspects of the American experience. The overarching objective of the project is to provide broad‐based public access to oral histories, material culture, correspondence, and rare out‐of‐print publications for use in both scholarly research and the classroom. 
 
 ## Collection Details

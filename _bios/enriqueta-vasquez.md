@@ -29,3 +29,8 @@ Throughout her life, Enriqueta has also explored her indigenous roots as a Chica
 
 Enriqueta’s advice for readers today is to keep up with what’s going on and get involved locally in your own community. She asks us to do whatever you can do, to express yourself creatively, and ultimately, to “Just keep going.”
 
+## Browse related records
+<br>
+
+{% include feature/image.html objectid="cb070;cb065;cb071;" %}
+[Click here for more.](http://127.0.0.1:4000/chicanapormiraza/browse.html#enriqueta%20vasquez)

@@ -28,4 +28,3 @@ During the 1990’s, Frances began her efforts for national legislation to comba
 The continuation of Frances’ work in political and social justice is still seen in her participation in campaigning for Jesus Chuy Garcia for mayor of Chicago in 2015.
 
 She is now retired in Florida.
-

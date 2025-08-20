@@ -20,3 +20,9 @@ As part of the Welfare Rights Movement and Chicano Movement she became very clos
 Escalante’s Chicana Welfare Rights Organization provided community workshops on welfare policies and rights, translated welfare forms for Spanish speaking families, aided people in applying for aid and grievances, and even opened a café to help feed the community while training welfare women for work. She also worked to create a bilingual newspaper through her organization, La Causa De Los Pobres. Alicia began to realize her writing could be used to mobilize and empower people to enact change. Although her newspaper was short lived, she wrote many articles for various news outlets including Encuentro Femenil and La Raza Newspaper.
 
 Alicia worked to transform Welfare policies on a state and national level, even participating in the Poor People’s Campaign march on Washington. She was also involved in policy change around the sterilization of women of color and in shaping early Chicana feminist thought during the Chicana Movement. After moving to Sacramento California, Alicia continued to advocate for underrepresented women and youth as a Social Worker.
+
+## Browse related records
+<br>
+
+{% include feature/image.html objectid="cb209;cb206;cb208" %}
+[Click here for more.](http://127.0.0.1:4000/chicanapormiraza/browse.html#alicia%20escalante)

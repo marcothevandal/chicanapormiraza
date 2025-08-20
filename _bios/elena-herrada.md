@@ -17,3 +17,8 @@ Several of Elena Herrada’s archival documents include references to Gilbert Gu
 
 Much of Herrada’s later activism stemmed from the concept of “Los Repatriados,” the Repatriated. The Repatriated refers to the history of Mexican immigrants who were encouraged to move to the U.S. to work in bracero programs, only to be deported in massive numbers during the Depression, serving as a scapegoat for U.S. economic issues. Many Mexicans and their U.S.-born children moved back to Mexico, often to lead impoverished lives. Herrada’s family experienced this history, being forced to move to Mexico in 1930, and then returning to Detroit in 1932. Herrada’s research and activism surrounds raising awareness of this history through screening documentaries, collecting oral histories, and hosting events to raise awareness about Los Repatriados.
 
+## Browse related records
+<br>
+
+{% include feature/image.html objectid="cb295;cb299;cb300" %}
+[Click here for more.](http://127.0.0.1:4000/chicanapormiraza/browse.html#elena%20herrada)

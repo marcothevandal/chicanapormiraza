@@ -21,3 +21,8 @@ In college, Carrasco supported herself through part-time jobs like portraits and
 
 Carrasco focuses on women in her art, which has always been politically oriented. A recent example of this political orientation is her Dolores Huerta piece on the labor and civil rights activist. All of her art has been subject to censorship, not just her aforementioned controversial mural. More recently, she has participated in art collectives like the Galería de la Raza website. And in 2014, Carrasco was recognized as a Los Angeles “Community Champion.”
 
+## Browse related records
+<br>
+
+{% include feature/image.html objectid="cb244;cb238;cb237" %}
+[Click here for more.](http://127.0.0.1:4000/chicanapormiraza/browse.html#barbara%20carrasco)

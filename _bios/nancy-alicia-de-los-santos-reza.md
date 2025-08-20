@@ -27,3 +27,8 @@ After graduating from the University of Texas’s Radio, Television, and Film De
 
 Nancy continues to write, produce, and direct in L.A., and to live her life mission to create realistic images of Latinos and Latinas in the media.
 
+## Browse related records
+<br>
+
+{% include feature/image.html objectid="cb121;cb114;cb116" %}
+[Click here for more.](http://127.0.0.1:4000/chicanapormiraza/browse.html#nancy%20de%20los%20santos)

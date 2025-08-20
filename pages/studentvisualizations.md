@@ -1,9 +1,11 @@
 ---
 title: Vizualizations Created by Students
-layout: page-narrow
+layout: page
 permalink: /studentvisualizations.html
 ---
 # Vizualizations Created by Students
+<br>
+<img src="/chicanapormiraza/web_graphics/studentviz.png" width="800px" style="display: block; margin-left: auto; margin-right: auto;">
 
 <br>
 

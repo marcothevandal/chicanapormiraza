@@ -22,3 +22,9 @@ It was in college that Lopez began to get involved with activism. College was a 
 Lopez’s political involvement opened doors, but it also limited her ability to be a student. In 1970, she left San Diego State, putting schoolwork secondary to politics, and traveled around the country advocating for Chicana/o rights with figures like Corky Gonzalez, Reyes Lopez Tijerina, both of whom she openly challenged about sexist remarks. She later went to Sacramento to finish her coursework. When she finished school, Lopez returned to Calexico to help with a brother who was struggling with addiction, and remained in Calexico for several years, working as a counselor in the high school and as a campaign manager for a friend in 1975.
 
 Lopez went on to teach as a professor, first at San Diego State, and then at Fullerton State. She also attended law school. Through studying law, Lopez became passionate about immigration reform, and began to work with undocumented youth. She remains active in Chicana/o rights, and acknowledges the positive social change she and other women have created. Lopez wants her experiences to help tell the story of many women who, forgotten by history, made a real difference in the Chicana/o movement.
+
+## Browse related records
+<br>
+
+{% include feature/image.html objectid="cb287;cb283;cb284" %}
+[Click here for more.](http://127.0.0.1:4000/chicanapormiraza/browse.html#sonia%20lopez)

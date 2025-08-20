@@ -24,4 +24,3 @@ Ruth retired the first time settling in El Paso Texas where she became involved 
 In 2007 Ruth, along with five other Chicana Feminists appeared in the feature length documentary about their work in the NWPC, ‘Las Mujeres de la Caucus Chicana’. In 2008 Ruth received the Sor Juana Women of Achievement Award from the National Museum of Mexican Art in Chicago.
 
 Ruth now lives in Lincoln, Nebraska and is currently writing her memoirs and speaks at colleges and universities on her activist experiences. Ruth's collection is housed at the Benson Latin American Collection at the University of Texas at Austin.
-

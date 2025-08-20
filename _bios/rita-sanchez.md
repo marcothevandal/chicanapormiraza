@@ -33,3 +33,8 @@ In 1990, Sanchez was hired in a joint position with the English department and t
 
 Rita Sanchez, Professor Emerita, is happily remarried and lives in San Diego with her husband of twenty years, Richard Griswold del Castillo; they have six children between them and nine grandchildren. Sanchez continues to write and make art as a way to create positive social change. Presently she is gathering the stories of local Chicanas. In 2011, surrounded by her family and children, she was inducted into the San Diego Women’s Hall of Fame in the area of “Activist.”
 
+## Browse related records
+<br>
+
+{% include feature/image.html objectid="cb322;cb325;cb329" %}
+[Click here for more.](http://127.0.0.1:4000/chicanapormiraza/browse.html#rita%20sanchez)

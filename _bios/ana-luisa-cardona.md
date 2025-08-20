@@ -19,3 +19,8 @@ At Michigan, Cardona soon found the Chicano Advocates Office and met activists J
 
 In 1977, Cardona received a fellowship to work at the National Endowment for the Arts in D.C where she provided administrative support to the Hispanic task force. While in Washington, Cardona became pregnant with her son, Simón, and her partner, Julio Perazza, moved from Michigan to D.C. to work at the Library of Congress. Cardona returned to Puerto Rico in 1980 for a trip with her family and conducted an oral history of Jack Delano, who was the head of the Division of Community Education in the 1950s. When she returned to Michigan, she found a position in the College of Education’s Office of Minority Affairs at the University of Michigan and Jack Delano continued to be a solid artist-mentor for Cardona. Eventually, Cardona took a position at the Michigan Department of Education, where she worked from 1987 to 2011. She is a longstanding activist for equity and art in education and has devoted 23 years in multiple leadership positions. She continues to provide leadership in arts education at the state and national levels.
 
+## Browse related records
+<br>
+
+{% include feature/image.html objectid="cb181;cb183;cb179" %}
+[Click here for more.](http://127.0.0.1:4000/chicanapormiraza/browse.html#ana%20luisa%20cardona)

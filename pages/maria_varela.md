@@ -1,10 +1,10 @@
 ---
 title: Maria Varela - Civil Rights Photographer
-layout: page-narrow
+layout: page
 permalink: /maria_varela.html
 ---
 # Maria Varela: Civil Rights Photorapher
-_First published XX_
+_First published 2022_
 {% include feature/image.html objectid="" %}
 
 
@@ -28,3 +28,9 @@ In 1967, Maria Varela moved to New Mexico and joined the Chicano movement to wor
 From 1975 to 1979 Varela served as the director of the primary health clinic, La Clinica, helping to develop northern New Mexico’s first rural birthing center. (Varelamaria).  “…We were one of the first clinics to get the National Health Service Corps to come. So we could have docs that would staff it. And we were one of the first clinics to fire a National Health Service Corps doctor (laughs). That would be me. I worked through the corporativa and the clinica. I worked for the corporativa first, from about 1970. In 1975 the clinic board asked me if I would come and run the clinic… I run the clinic until I became pregnant with Sabina and, but still stayed on as a consultant for a good year after, until 1980.” (31, “Maria Varela's Oral History Transcript.”).
 
 After the birth of her first child in 1980, Varela took after her great-uncle and bought sheep and created [Tierra Woolsa Sheep Cooperative](https://www.handweavers.com/our-story). “Well, gee, the problem for me is that if people aren’t using their agricultural land and water then their kids are gonna come along and sell ‘em to the outsiders for second homes. You know? So it seems like we have to do something about making agriculture—” this is the old co-op corporativa idea, but we were ahead of our time…movements have to be ready.”(31, “Maria Varela's Oral History Transcript.”). The Sheep Cooperative increased jobs for many women and men, with around 52 employees in a town of no more than 4,000 people. Being able to create such an enterprise without much information allowed her to learn more about agricultural needs, what it takes to keep a business thriving, and even more about sheep. “Now, it takes seven years to breed your basic flock back into the way the churro’s wool should be. You know, um, that’s— so we just worked at that. And that was a thriving business.” (31, “Maria Varela's Oral History Transcript.”). Varela’s work with the Sheep Cooperative reflects on her roots and her love for agricultural groups, and it ultimately won her a MacArthur Genius grant for her work. On August 1st, 1990, she was awarded the grant as a Community Development Leader with a focus on housing and community with economic development. (“Maria Varela.” RSS).
+
+## Browse more photos related to Maria Varela  
+<br>
+
+{% include feature/image.html objectid="cb006;cb004;cb027" %}
+[Click here for more.](http://127.0.0.1:4000/chicanapormiraza/browse.html#lola%20de%20la%20riva)

@@ -18,3 +18,8 @@ In Crystal City, Cotera headed the Crystal City Memorial Library and was respons
 
 Cotera worked for nearly three decades as a community liaison for the Benson Latin American Collection at the University of Texas until the position was eliminated due to budget cuts and shifting priorities. She is currently an independent translator and community consultant, and remains active in local politics and community initiatives including the Mexican American Cultural Center, immigrant rights, and Code Pink. She has also been a strong and eloquent advocate against the death penalty in Texas.
 
+## Browse related records
+<br>
+
+{% include feature/image.html objectid="cb188;cb193;cb258" %}
+[Click here for more.](http://127.0.0.1:4000/chicanapormiraza/browse.html#cotera%20archive)

@@ -19,3 +19,12 @@ Martinez has received a great amount of recognition and awards throughout her li
 
 Martinez is an attorney, a mother, and a speaker, but above all, she is a fighter. She has pushed for change and recognition for the Chicana woman from the start of her career and has worked hard to ensure that the movement is everything but finished.
 
+
+
+
+## Browse related records
+<br>
+
+{% include feature/image.html objectid="cb100;cb102;cb104" %}
+[Click here for more.](http://127.0.0.1:4000/chicanapormiraza/search/index.html?q=Virginia%20Martinez)
+

@@ -15,11 +15,11 @@ permalink: /mujeres.html
         <br>
         <img src="{{ b.image_thumb }}" alt="portrait of {{ b.title }}" class="img-fluid rounded">
     </div>
-    <div class="col-md-4">
+    <div class="col-md-4"><br>
         <h3><a href="{{ b.url | relative_url }}">{{ b.title }}</a></h3>
-        <p>{{ b.quote }}</p>
+        <p>"{{ b.quote }}"</p>
     </div>
-    <div class="col-md-6">{{ b.description | markdownify }}</div>
+    <div class="col-md-6"><br>{{ b.description | markdownify }}</div>
         
 </div>
 {% endfor %}

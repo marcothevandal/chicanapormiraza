@@ -19,3 +19,8 @@ During her time with the Brown Berets, Arellanes attended many major Chicano mov
 
 Since the movement years, Arellanes has reconnected with her Native American heritage and is now an elder of the Tongva tribe. She served as a secretary on the Tribal Council and is part of an Indigenous Grandmothers group. She raised two sons as a single mother and now has a grandson.
 
+## Browse related records
+<br>
+
+{% include feature/image.html objectid="cb233;cb232;cb225" %}
+[Click here for more.](http://127.0.0.1:4000/chicanapormiraza/browse.html#gloria%20arellanes)

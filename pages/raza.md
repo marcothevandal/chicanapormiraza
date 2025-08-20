@@ -1,6 +1,6 @@
 ---
 title: Raza Art and Media Collective
-layout: page-narrow
+layout: page
 permalink: /raza.html
 ---
 # A Brief History of the Raza Art and Media Collective at the University of Michigan
@@ -32,6 +32,12 @@ Unfortunately, despite widespread support, the last edition of the Raza Art and 
 ## Listen to more of the RAMC Story in Ana Cardona's Own Words:
 
 {% include feature/video.html objectid="https://www.youtube.com/watch?v=yp07lS_L13E" caption="Ana Cardona Oral History excerpt" %}
+
+## Browse more photos related to La Raza Art and Media Collective
+<br>
+
+{% include feature/image.html objectid="cb187;cb180;cb155" %}
+[Click here for more.](http://127.0.0.1:4000/chicanapormiraza/browse.html#raza%20art%20and%20media%20collective)
 
 
 ## Further Learning:

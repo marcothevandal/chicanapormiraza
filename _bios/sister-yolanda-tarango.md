@@ -23,3 +23,7 @@ Sister Yolanda’s journey as a nun and with Las Hermanas took her various place
 
 For more information on Sister Yolanda Tarango and Las Hermanas, see Band of Sisters, the film: <a href="http://www.bandofsistersmovie.com/sisters/yolanda-tarango" target="_blank">http://www.bandofsistersmovie.com/sisters/yolanda-tarango</a> and _Las Hermanas: Chicana/Latina Religious-Political Activism in the U.S. Catholic Church_, by Lara Medina.
 
+## Browse related records
+<br>
+
+{% include feature/image.html objectid="cb105;cb107" %}
