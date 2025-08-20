@@ -31,4 +31,4 @@ CPMR is co-created by a core team:
 
 <img src="/chicanapormiraza/web_graphics/garcia-merchant.jpg" width="200px"> Linda Garcia Merchant, PhD - founder and co-creator 
 
-<img src="/chicanapormiraza/web_graphics/marco.jpg" width="200px"> Marco Seiferle-Valencia - co-creator
+<img src="/chicanapormiraza/web_graphics/marco.jpg" width="200px"> Marco Seiferle-Valencia - co-creator.
