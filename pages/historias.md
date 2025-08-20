@@ -1,6 +1,6 @@
 ---
 title: Historias
-layout: page-narrow
+layout: page
 permalink: /historias.html
 ---
 # Historias Index Page
